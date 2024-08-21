@@ -2,7 +2,6 @@
 
 👨‍🏭 Im a front-end developer and designer.<br>
 🎯 Constantly learning and improving my skills.<br><br>
-A regular day often looks like: Coding and coffee ☕
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
